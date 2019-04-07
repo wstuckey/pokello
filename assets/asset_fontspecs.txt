@@ -1,0 +1,21 @@
+font specifications
+
+
+font name:
+    Comfortaa
+
+
+embedding:
+    standard:
+        <link 
+        href="https://fonts.googleapis.com/css?family=Comfortaa" 
+        rel="stylesheet"> 
+
+    @import:
+        <style>
+        @import url('https://fonts.googleapis.com/css?family=Comfortaa');
+        </style> 
+
+
+specify in css:
+    font-family: 'Comfortaa', cursive;
