@@ -42,11 +42,9 @@ npm test
 
 ## Meta
 
-William Stuckey – [@w_stuckey](https://twitter.com/w_stuckey) - [wstuckey.com](https://www.wstuckey.com)
+William Stuckey – [Website (wstuckey.com)](https://www.wstuckey.com) - [Twitter (@w_stuckey)](https://twitter.com/w_stuckey) - [Github (@wstuckey)](https://github.com/wstuckey)
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
-
-[https://github.com/wstuckey](https://github.com/wstuckey)
 
 
 ## Contributing
