@@ -42,7 +42,7 @@ npm test
 
 ## Meta
 
-William Stuckey – [@YourTwitter](https://twitter.com/w_stuckey) - [wstuckey.com](https://www.wstuckey.com)
+William Stuckey – [@w_stuckey](https://twitter.com/w_stuckey) - [wstuckey.com](https://www.wstuckey.com)
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
