@@ -42,8 +42,6 @@ npm test
 
 ## Meta
 
-William Stuckey :
-   
 [website (wstuckey.com)](https://www.wstuckey.com) | [twitter (@w_stuckey)](https://twitter.com/w_stuckey) | [github (@wstuckey)](https://github.com/wstuckey)
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
