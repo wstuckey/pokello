@@ -9,19 +9,6 @@
 
 One to two paragraph statement about your product and what it does.
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
@@ -55,16 +42,16 @@ npm test
 
 ## Meta
 
-William Stuckey – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+William Stuckey – [@YourTwitter](https://twitter.com/w_stuckey) - [wstuckey.com](https://www.wstuckey.com)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
 [https://github.com/wstuckey](https://github.com/wstuckey)
 
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/wstuckey/pokello/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
