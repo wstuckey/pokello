@@ -27,16 +27,11 @@ npm test
 
 ## Release History
 
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
 * 0.1.0
     * The first proper release
     * CHANGE: Rename `foo()` to `bar()`
+    * CHANGE: Remove `setDefaultXYZ()`
+    * ADD: Add `init()`
 * 0.0.1
     * Work in progress
 
@@ -60,6 +55,6 @@ Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 [forks-url]: https://github.com/wstuckey/pokello
 [stars-image]: https://img.shields.io/github/stars/wstuckey/pokello.svg?style=flat-square
 [stars-url]: https://github.com/wstuckey/pokello
-[license-image]: https://img.shields.io/github/license/william-stuckey/pokello.svg?style=flat-square
+[license-image]: https://img.shields.io/github/license/wstuckey/pokello.svg?style=flat-square
 [license-url]: https://github.com/wstuckey/pokello
 [wiki]: https://github.com/wstuckey/pokello/wiki
