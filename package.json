@@ -1,0 +1,31 @@
+{
+  "name": "pokello",
+  "version": "1.1.6",
+  "description": "A simple wrapper for the Reddit API.",
+  "main": "pokello.js",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "bluebird": "^3.5.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wstuckey/pokello"
+  },
+  "scripts": {},
+  "author": "William Stuckey",
+  "license": "GPL-3.0",
+  "keywords": [
+    "reddit",
+    "api",
+    "wrapper",
+    "Reddit",
+    "snoo",
+    "wrap"
+  ]
+}
