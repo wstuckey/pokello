@@ -7,10 +7,26 @@
 [![Build Status][forks-image]][forks-url]
 [![License][license-image]][license-url]
 
-One to two paragraph statement about your product and what it does.
+(One to two paragraphs about Pokello is)
 
+## Development Map
+```
+┌─roadmap──────────────────────────────────────────────────────────────────────────────────────────────┐
+│┌────────────────────────────┐      ┌────────────────────────────┐      ┌────────────────────────────┐│
+││0.0.x                       │      │0.x.0                       │      │x.0.0                       ││
+││[×] setup repo              │      │[ ] clean/document in wiki  │      │[ ] cont. integration setup ││
+││[×] setup wiki              │      │[ ] total project refactor  │      │[ ] shrink dependencies     ││
+││[ ] initial code commits    │      │[ ] start web app develop.  │      │[ ] optimize codebase       ││
+││[ ] fix/tidy codebase       │─────▶│[ ] initial web app release │─────▶│[ ] ?                       ││
+││[ ] v0.0.1 NPM release      │      │[ ] v0.1.0 NPM release      │      │[ ] ?                       ││
+││[ ] v0.0.x fixes/features   │      │[ ] v0.1.0 fixes/features   │      │[ ] ?                       ││
+│├────────────────────────────┤      ├────────────────────────────┤      ├────────────────────────────┤│
+││       IN DEVELOPMENT       │      │          PLANNED           │      │          PLANNED           ││
+│└────────────────────────────┘      └────────────────────────────┘      └────────────────────────────┘│
+└──────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
-## Usage example
+## Quick Start
 
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
@@ -21,14 +37,14 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
-make install
+// NOTE: THIS IS PLACEHOLDER
+npm install pokello
 npm test
 ```
 
 ## Release History
 
-* 0.1.0
-    * The first proper release
+* 0.1.0 _(placeholder, will update later)_ 
     * CHANGE: Rename `foo()` to `bar()`
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
