@@ -15,7 +15,7 @@
 │┌────────────────────────────┐      ┌────────────────────────────┐      ┌────────────────────────────┐│
 ││0.0.x                       │      │0.x.0                       │      │x.0.0                       ││
 ││[×] setup repo              │      │[ ] clean/document in wiki  │      │[ ] cont. integration setup ││
-││[×] setup wiki              │      │[ ] total project refactor  │      │[ ] shrink dependencies     ││
+││[ ] setup wiki              │      │[ ] total project refactor  │      │[ ] shrink dependencies     ││
 ││[ ] initial code commits    │      │[ ] start web app develop.  │      │[ ] optimize codebase       ││
 ││[ ] fix/tidy codebase       │─────▶│[ ] initial web app release │─────▶│[ ] ?                       ││
 ││[ ] v0.0.1 NPM release      │      │[ ] v0.1.0 NPM release      │      │[ ] ?                       ││
