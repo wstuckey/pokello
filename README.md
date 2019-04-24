@@ -1,25 +1,21 @@
 <a href="#"><img src="./assets/asset_logo.png" alt="pokello" width="200"/></a>
 ---
+> A dead simple Reddit api for all of your bot and data collection needs!
 
-> A simple Reddit data collection tool.
+[![NPM](https://nodei.co/npm/pokello.png?mini=true)](https://nodei.co/npm/pokello/)
 
-[![Build Status][stars-image]][stars-url]
-[![Build Status][forks-image]][forks-url]
-[![License][license-image]][license-url]
-
-A dead simple Reddit api for all of your bot and data collection needs!
 
 ## Development Map
 ```
 ┌─roadmap──────────────────────────────────────────────────────────────────────────────────────────────┐
 │┌────────────────────────────┐      ┌────────────────────────────┐      ┌────────────────────────────┐│
 ││0.0.x                       │      │0.x.0                       │      │x.0.0                       ││
-││[×] setup repo              │      │[ ] clean/document in wiki  │      │[ ] cont. integration setup ││
-││[×] setup wiki              │      │[ ] total project refactor  │      │[ ] shrink dependencies     ││
-││[×] initial code commits    │      │[ ] start web app develop.  │      │[ ] optimize codebase       ││
-││[×] fix/tidy codebase       │─────▶│[ ] initial web app release │─────▶│[ ] ?                       ││
-││[×] v0.0.1 NPM release      │      │[ ] v0.1.0 NPM release      │      │[ ] ?                       ││
-││[×] v0.0.x fixes/features   │      │[ ] v0.1.0 fixes/features   │      │[ ] ?                       ││
+││[×] setup repo              │      │[×] clean/document in wiki  │      │[ ] cont. integration setup ││
+││[×] setup wiki              │      │[×] total project refactor  │      │[ ] shrink dependencies     ││
+││[×] initial code commits    │      │[×] start web app develop.  │      │[ ] optimize codebase       ││
+││[×] fix/tidy codebase       │─────▶│[×] initial web app release │─────▶│[ ] ?                       ││
+││[×] v0.0.1 NPM release      │      │[×] v0.1.0 NPM release      │      │[ ] ?                       ││
+││[×] v0.0.x fixes/features   │      │[×] v0.1.0 fixes/features   │      │[ ] ?                       ││
 │├────────────────────────────┤      ├────────────────────────────┤      ├────────────────────────────┤│
 ││       IN DEVELOPMENT       │      │          PLANNED           │      │          PLANNED           ││
 │└────────────────────────────┘      └────────────────────────────┘      └────────────────────────────┘│
@@ -28,29 +24,26 @@ A dead simple Reddit api for all of your bot and data collection needs!
 
 ## Quick Start
 
-
-
-```sh
-npm install pokello
-npm test
-```
+_coming soon_
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 
 ## Development setup
 
-_placeholder_
+_coming soon_
 
 
 ## Release History
 
-* 0.1.0 _(placeholder, will update later)_ 
-    * CHANGE: Rename `foo()` to `bar()`
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
+* 0.1.1
+    * CHANGE: Updated README.
+    * CHANGE: Updated version code to actually match current version.
+    * ADD: Template for eslint.
+* 0.1.0 
+    * Initial release.
 * 0.0.1
-    * Work in progress
+    * Work in progress, closed alpha.
 
 ## Meta
 
