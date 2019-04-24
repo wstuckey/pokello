@@ -1,6 +1,6 @@
 {
   "name": "pokello",
-  "version": "1.1.6",
+  "version": "0.1.1",
   "description": "A simple wrapper for the Reddit API.",
   "main": "src/Pokello.js",
   "dependencies": {
