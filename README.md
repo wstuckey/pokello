@@ -7,7 +7,7 @@
 [![Build Status][forks-image]][forks-url]
 [![License][license-image]][license-url]
 
-(One to two paragraphs about Pokello is)
+A dead simple Reddit api for all of your bot and data collection needs!
 
 ## Development Map
 ```
@@ -28,20 +28,20 @@
 
 ## Quick Start
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+
+
+```sh
+npm install pokello
+npm test
+```
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
 
 ## Development setup
 
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+_placeholder_
 
-```sh
-// NOTE: THIS IS PLACEHOLDER
-npm install pokello
-npm test
-```
 
 ## Release History
 
