@@ -2,7 +2,7 @@
 // file    : Pokello.js
 // author  : william h stuckey
 // date    : 2019-03-25
-// purpose : a simple javascript wrapper for the reddit api.
+// purpose : a simple javascript wrapper for the reddit api
 // license : GPL-3.0
 // *************************************************************************************************
 
